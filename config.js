@@ -5,8 +5,8 @@
  */
 
 export default {
-  title: 'React Static Boilerplate',
-  description: 'Static website generator for React.js web applications.',
+  title: 'TuringLab',
+  description: 'Inspiring children to explore the world through code',
   googleAnalyticsId: 'UA-XXXXX-X',
 };
 
